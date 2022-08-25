@@ -1,0 +1,14 @@
+*.log
+.settings/
+.classpath
+.project
+*.iws
+*.iml
+.idea/
+my-app/node_modules
+*/node_modules
+build/
+target/
+.DS_Store
+logs/
+.vscode
